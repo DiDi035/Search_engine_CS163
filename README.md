@@ -5,3 +5,4 @@ Group18_APCS2_k18_HCMUS
 2/ Huynh Bao Di
 3/ Dang Phuong Nam
 4/ Ngo Minh Khoi
+p/s: We gain 9.5 mark for this project ~
